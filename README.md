@@ -11,14 +11,13 @@ Projeto desenvolvido em typeScript que tem como propósito integrar as plataform
 
 - Adicionar oportunidades com status randomico no pipedrive
 - Agregar oportunidades com status ganho no Bling
-- Armazenar no MongoDB os ganhos por dia da plataforma Bling.
-
+- Armazenar e buscar no MongoDB os ganhos por dia da plataforma Bling.
 
 ## 🛠 Tecnologias utilizadas
 
-- ⚛ **Express** 
-- ⚛ **TypeOrm** 
+- 🛠 **Express** 
 - 📡 **Axios** 
+- - 🛠 **TypeOrm** 
 
 ## 🚀 Rodando o projeto
 
