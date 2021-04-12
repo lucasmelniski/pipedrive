@@ -17,7 +17,7 @@ Projeto desenvolvido em typeScript que tem como propósito integrar as plataform
 
 - 🛠 **Express** 
 - 📡 **Axios** 
-- - 🛠 **TypeOrm** 
+- 🛠 **TypeOrm** 
 
 ## 🚀 Rodando o projeto
 
